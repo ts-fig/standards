@@ -1,0 +1,2 @@
+# standards
+TypeScript Standards
